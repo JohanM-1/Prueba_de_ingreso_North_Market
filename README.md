@@ -36,7 +36,7 @@ En Windows, tkinter generalmente viene incluido con la instalación de Python.
 - Librerías: tkinter, sqlite3, requests
 - Ejecutar: `python "#3.py"`
 - Credenciales de prueba:
-  - Usuario: admin / Contraseña: admin123
+  - Usuario: admin / Contraseña: admin
   - Usuario: usuario / Contraseña: password
   - Usuario: test / Contraseña: test123
 - Al iniciar sesión correctamente, muestra datos de personajes de la API de Rick and Morty
